@@ -23,7 +23,7 @@ To use the CRUDS system:
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/cruds-system.git
+   git clone https://github.com/mustafawardeh/crud-system.git
 2. Open the index.html file in your web browser.
 
 3. Use the form to create, read, update, delete, and search for data items.
