@@ -1,3 +1,3 @@
 # CRUDS System
 Create Read Update Delete Search System
-<img src='CRUD.PNG' />
+<img src='CRUDS.PNG' />
